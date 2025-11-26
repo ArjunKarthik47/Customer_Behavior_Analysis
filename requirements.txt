@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+
+# SQL-related libraries
+sqlalchemy
+psycopg2-binary
+
+# Optional but useful for analytics
+plotly
+openpyxl
